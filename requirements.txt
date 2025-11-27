@@ -1,0 +1,23 @@
+# GitHub Repository Analyzer with LangGraph + MCP
+# Python 3.11+
+
+# LangGraph and LangChain (compatible versions)
+langgraph>=0.2.45
+langchain>=0.3.13
+langchain-core>=0.3.26
+langchain-openai>=0.2.11
+
+# MCP (Model Context Protocol)
+mcp==1.2.0
+
+# Azure OpenAI
+openai>=1.57.0
+
+# Utilities
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# Data handling
+httpx>=0.28.0
+aiofiles>=24.1.0
