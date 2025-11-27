@@ -28,6 +28,7 @@ A generic GitHub repository analyzer using **LangGraph agents** + **GitHub MCP**
 - Issues metadata and categorization
 - Technology patterns and commonalities
 
+
 ## Setup
 
 ### Prerequisites
